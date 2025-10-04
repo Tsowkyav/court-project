@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+sqlalchemy
+alembic    # optional
+python-multipart
+pydantic
+aiofiles
+PyPDF2      # optional for PDF metadata
+requests
